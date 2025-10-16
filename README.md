@@ -14,3 +14,4 @@
 
 **📩 CONTACT:**  
 - My [LinkedIn](https://www.linkedin.com/in/marc-antoine-regnault-913b76386/)
+- My [Resume](file:///C:/Users/marca/Downloads/CV%20Marc-Antoine.pdf)
