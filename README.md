@@ -1,14 +1,15 @@
-# 👋 Hi, I'm Marc-Antoine 
+# 👋 Salut, je suis Marc-Antoine **REGNAULT**
 
-**🙋 ABOUT ME:**  
-- 🎓 I'm a **first-year student** at [ENIGMA-SCHOOL](https://www.enigma-school.com/)  
+- **🙋 A propos de moi:**  
+- 🎓 Je suis en **première année** à [ENIGMA-SCHOOL](https://www.enigma-school.com/)
+  
 - 🛠️ **Languages**: 
  
   <img src="https://i.imgur.com/5qL1h7B.png" alt="Python" width="50"> Python  
   <img src="https://i.imgur.com/gkNcXnF.png" alt="HTML" width="50"> HTML  
   <img src="https://i.imgur.com/3ukLuMR.png" alt="PHP" width="50"> PHP  
 
-**🤝 SOFT SKILLS:**  
+- **🤝 SOFT SKILLS:**  
 - Curious, autonomous, and **team-oriented**  
 - Interested in **cybersecurity** and **AI**
 
