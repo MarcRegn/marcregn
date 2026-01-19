@@ -1,17 +1,15 @@
 # 👋 Salut, je suis Marc-Antoine **REGNAULT**
 
-- **🙋 A propos de moi:**  
+# **🙋 A propos de moi:**  
 - 🎓 Je suis en **première année** à [ENIGMA-SCHOOL](https://www.enigma-school.com/)
+- Dans l'informatique je suis intérressé par le développement
+- Je suis curieux, autonome, ponctuel.
   
-- 🛠️ **Languages**: 
- 
-  <img src="https://i.imgur.com/5qL1h7B.png" alt="Python" width="50"> Python  
-  <img src="https://i.imgur.com/gkNcXnF.png" alt="HTML" width="50"> HTML  
-  <img src="https://i.imgur.com/3ukLuMR.png" alt="PHP" width="50"> PHP  
+# 🛠️ **Compétences**: 
 
-- **🤝 SOFT SKILLS:**  
-- Curious, autonomous, and **team-oriented**  
-- Interested in **cybersecurity** and **AI**
-
-**📩 CONTACT:**  
-- My [LinkedIn](https://www.linkedin.com/in/marc-antoine-regnault-913b76386/)
+- J'ai des bases en PHP, HTML, CSS ainsi que PYTHON.
+- Pour développer mes projets, j'utilise principalement: VsCode et CLion. 
+  
+# **📩 CONTACT:** 
+- Mon email: marcantoinefr07@gmail.com
+- Mon [LinkedIn](https://www.linkedin.com/in/marc-antoine-regnault-913b76386/)
