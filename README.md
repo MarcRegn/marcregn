@@ -1,7 +1,7 @@
 # 👋 Salut, je suis Marc-Antoine **REGNAULT**
 
 # **🙋 A propos de moi:**  
-- Je suis en **première année** à [ENIGMA-SCHOOL](https://www.enigma-school.com/).
+- Je suis en **deuxième année** à [ENIGMA-SCHOOL](https://www.enigma-school.com/).
 - Dans l'**informatique** je suis intérressé par le **développement**.
 - Je suis curieux, autonome, ponctuel.
   
